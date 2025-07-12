@@ -75,3 +75,7 @@ The model can predict height for any given weight. For example:
 ```python
 regression.predict(scaler.transform([[72]]))
 # Output: ~165.32 cm
+
+## 🚀 Streamlit Web App
+
+This project also includes a Streamlit web app (app.py) for interactive height prediction based on weight.
